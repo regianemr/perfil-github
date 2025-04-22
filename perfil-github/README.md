@@ -8,6 +8,8 @@ Este é um projeto desenvolvido em **React** utilizando **Yarn** como gerenciado
 >![Tela inicial](https://github.com/regianemr/perfil-github/blob/main/perfil-github/src/assets/perfil-github1.png)
 
 ### Busca por usuário
+>![Demonstração do projeto](https://github.com/regianemr/perfil-github/blob/main/perfil-github/src/assets/perfil-github22.png?raw=true)
+
 >![Demonstração do projeto](https://github.com/regianemr/perfil-github/blob/main/perfil-github/src/assets/perfil-github2.png?raw=true)
 
 ### Busca por usuário não existente seguida de mensagem de erro
