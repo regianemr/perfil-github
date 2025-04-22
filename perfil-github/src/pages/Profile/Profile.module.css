@@ -1,4 +1,5 @@
 .details_user {
+  color: #fff;
   display: flex;
   width: 100%;
 }
@@ -18,7 +19,9 @@
 }
 
 .user {
+  color: #fff;
   width: 100%;
+
 }
 
 .followers_details {
