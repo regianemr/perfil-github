@@ -1,0 +1,39 @@
+.card {
+  align-items: center;
+  background-color: #d9d9d9 ;
+  border-radius: 25px;
+  color: #2f2f2f;
+  cursor: pointer;
+  display: flex;
+  height:257px;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  padding: .5rem;
+  width: 800px;
+}
+
+.details {
+  display: flex;
+}
+
+.details img {
+  border-radius: 50%;
+  border: 2px solid #002cff;
+  height: 220px;
+  margin-right: 1rem;
+  width: 220px;
+}
+
+.details p:nth-child(1) {
+  color: #002cff;
+  font-family: 'Nunito Sans';
+  font-size: 27px;
+  font-weight: 700;
+}
+
+.details p:nth-child(2) {
+  color: #000000;
+  font-family: 'Nunito Sans';
+  font-weight: 300;
+  font-size: 15px;
+}
