@@ -5,15 +5,15 @@ Este é um projeto desenvolvido em **React** utilizando **Yarn** como gerenciado
 ## 📸 Demonstração do Projeto
 
 ### Tela Inicial
->![Tela inicial]('./src/assets/perfil-github1.png)
+>![Tela inicial]('./src/assets/perfil-github1.png')
 
 ### Busca por usuário
->![Demonstração do projeto]('./src/assets/perfil-github2.png)
+>![Demonstração do projeto]('./src/assets/perfil-github2.png')
 
 ### Busca por usuário não existente seguida de mensagem de erro
->![Demonstração do projeto]('./src/assets/perfil-github3.png)
+>![Demonstração do projeto]('./src/assets/perfil-github3.png')
 
->![Demonstração do projeto]('./src/assets/perfil-github4.png)
+>![Demonstração do projeto]('./src/assets/perfil-github4.png')
 
 
 ## 🚀 Funcionalidades
